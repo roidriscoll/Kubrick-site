@@ -1,5 +1,7 @@
 This site was created to explore concepts in Stanley Kubrick's The Shining with content by Lawrence Ratna.
 
+See www.lratna.com for the site itself.
+
 Site features:
 
 CSS3 keyframes for logo, header and hover animations - in particular the good ol' card flip.
